@@ -11,5 +11,5 @@ Query - Jogos melhor classificados
 Query - Jogos pior classificados </h5>
 
 # Autores do projeto
-| <sub>José Etchichury</sub>(​https://github.com/Jcetchichury) |   <sub>Luany Oliveira </sub>(https://github.com/luanyoliveira16) 
-| <sub>Paloma Barros</sub>(​https://github.com/PamBarros)      |   <sub>Raphael Marques</sub>(https://github.com/raphhaelm) |
+| <h2>José Etchichury</h2>(​https://github.com/Jcetchichury) |   <h2>Luany Oliveira </h2>(https://github.com/luanyoliveira16) 
+| <h2>Paloma Barros</h2>(​https://github.com/PamBarros)      |   <h2>Raphael Marques</h2>(https://github.com/raphhaelm) |

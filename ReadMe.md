@@ -1,21 +1,15 @@
-Projeto Final do Modulo 3 | Curso Resília WebDev Full Stack.
-Squad: 1- José Etchichury 2- Luany Oliveira 3- Paloma Barros 4- Raphael Marques.
-
-Tema: Steam Store Games 
-
-Proposta: Neste projeto você e sua squad deverão montar um dashboard com base no conjunto de dados escolhidos por vocês, a
-fim de realizar uma apresentação com a exploração dos dados.
-
-1 - Paloma - Steam.CSV
-2 - Luany  - Steam_Description_Data.CSV
-3 - José   - Steam_media_data.CSV
-4 - Rapha  - Steam_requeriments_data.CSV
+# :joystick: <h1 align="center"> Projeto Final do Modulo 3 | Curso Resília WebDev Full Stack.</h1> :joystick:
 
 
-Query - Quais os sistemas operacionais tem mais opções de jogos ? - PALOMA
-Query - Quais os generos mais comuns ? - PALOMA 
-Query - Preço x Genero - JOSE 
-Query - Qual o tempo medio de jogo ? - JOSE 
-Query - Jogos melhor classificados - LUANY
-Query - Jogos pior classificados - LUANY
+# :dart: <h4>Neste projeto, apresentamos um Dashboard com informações e curisidades sobre a plataforma Steam. Você que é gamer, utiliza a Steam ? Ja sabia desses Rakings ? Ficou curioso e vai se cadastrar ? Corre! </h4>:dart:
 
+<h5>Query - Quais os sistemas operacionais tem mais opções de jogos ? 
+Query - Quais os generos mais comuns ?
+Query - Preço x Genero 
+Query - Qual o tempo medio de jogo ? 
+Query - Jogos melhor classificados 
+Query - Jogos pior classificados </h5>
+
+# Autores do projeto
+| <sub>José Etchichury</sub>(​https://github.com/Jcetchichury) |   <sub>Luany Oliveira </sub>(https://github.com/luanyoliveira16) 
+| <sub>Paloma Barros</sub>(​https://github.com/PamBarros)      |   <sub>Raphael Marques</sub>(https://github.com/raphhaelm) |
